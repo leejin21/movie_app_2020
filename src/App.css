@@ -75,17 +75,17 @@ body,
     color: black;
 }
 
-.movie .movie__genres {
+/* .movie .movie__genres {
     list-style: none;
     padding: 0;
-    /* flex-wrap: wrap; */
-    /* margin: 0; */
+    flex-wrap: wrap; */
+    /* margin: 0;
     display: flex;
     margin: 5px 0;
-}
-
+} */
+/* 
 .movie__genres li {
     margin-top: 3px;
     margin-right: 10px;
     font-size: 20px;
-}
+} */
